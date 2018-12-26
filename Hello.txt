@@ -1,7 +1,4 @@
-<<<<<<< .mine
 skt t1 faker!
 wawa
-=======
-skt t1 faker!
 shsh
->>>>>>> .theirs
+
